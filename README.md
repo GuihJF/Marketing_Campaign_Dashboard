@@ -41,6 +41,6 @@ This Power BI dashboard analyzes customer behavior across regions, income levels
 └── 🖼️ Images/ ├── dashboard_overview.png  
 
 ## 🌍 Portfolio Impact  
-This project demonstrates my ability to transform raw marketing data into actionable insights using Power BI. It reflects my strengths in data cleaning, segmentation logic, and visual clarity—key skills for analytics roles and dashboard development.
+This project demonstrates my ability to transform raw marketing data into actionable insights using Power BI. It reflects my strengths in data cleaning, segmentation logic, and visual clarity skills for analytics roles and dashboard development.
 
 ---
