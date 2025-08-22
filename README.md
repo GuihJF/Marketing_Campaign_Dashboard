@@ -1,4 +1,4 @@
-# 📊 DSA — Marketing Campaign Analysis Dashboard
+# 📊 Marketing Campaign Analysis Dashboard
 
 ## 🔎 Project Overview  
 This Power BI dashboard analyzes customer behavior across regions, income levels, and spending patterns to uncover insights for targeted marketing strategies. It showcases key Power BI capabilities including data cleaning, DAX measures, and dynamic visual storytelling.
